@@ -4,13 +4,20 @@
 #### 1. yelp_random_sample.ipynb     
 (convert json to csv. It's optional, can start from the 2nd notebook)
 #### 2. Final EDA.ipynb
+(This notebook contains the full exploratory analysis of the five datasets)
 #### 3. Sentiment_Preprocessing.ipynb
+(sentiment preprocessing before modelling)
 #### 4. Topic Modelling
+(Build a LDA topic model for Tips)
 #### 5. TEXT_ONLY_MODELS
+(ML Models that only include text-based features)
 #### 6. HYBRID MODELS.ipynb
+(ML Models that contain both text-based and numerical features)
 #### 7. Hyperparameter_tuning.ipynb
+(Hyperameter tuning the final model)
 #### 8.NEURAL NETWORKS.ipynb
 (need to download Fast Text word vectors "wiki-news-300d-1M.vec")
+....................................................................
 ## The following packages might need to be installed before running the notebooks:
 #### 1.	XGBoost: pip install xgboost
 #### 2.	Keras: pip install Keras
