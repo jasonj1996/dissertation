@@ -1,5 +1,6 @@
 # MSc Business Analytics Consultancy Project/Dissertation 2019-20
 ## All codes have been uploaded onto this "dissertaion" repository
+## Datasets can be downloaded from: https://drive.google.com/drive/folders/1uMjO6oXWfTbbd7_sRDELSmZi_i2aARh9?usp=sharing)
 ## We should run the notebooks in the following order:
 #### 1. yelp_random_sample.ipynb 
 (This notebook is about converting json to csv. It's optional, can start from the 2nd notebook. The original Yelp Datasets can be accessed from: https://www.yelp.com/dataset)
