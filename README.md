@@ -1,7 +1,8 @@
 # MSc Business Analytics Consultancy Project/Dissertation 2019-20
 ## All codes have been uploaded onto this "dissertaion" repository
 ## We should run the notebooks in the following order:
-#### 1. yelp_random_sample.ipynb     
+#### 1. yelp_random_sample.ipynb 
+(The original Yelp Datasets can be accessed from: https://www.yelp.com/dataset)
 (convert json to csv. It's optional, can start from the 2nd notebook)
 #### 2. Final EDA.ipynb
 (This notebook contains the full exploratory analysis of the five datasets)
