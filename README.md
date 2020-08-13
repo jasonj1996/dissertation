@@ -16,7 +16,7 @@
 #### 7. Hyperparameter_tuning.ipynb
 (Hyperameter tuning the final model)
 #### 8.NEURAL NETWORKS.ipynb
-(need to download Fast Text word vectors "wiki-news-300d-1M.vec")
+(need to download Fast Text word vectors "wiki-news-300d-1M.vec",https://fasttext.cc/docs/en/english-vectors.html)
 
 ## The following packages might need to be installed before running the notebooks:
 #### 1.	XGBoost: pip install xgboost
